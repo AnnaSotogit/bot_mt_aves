@@ -1,0 +1,3 @@
+0 Palomas
+1 Gorriones
+2 Buo
